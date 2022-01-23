@@ -1,1 +1,1 @@
-# Epipolar_line_and_keypoint_extraction
+# Epipolar_lines_and_keypoints_extraction
